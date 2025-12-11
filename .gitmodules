@@ -1,0 +1,6 @@
+[submodule "PwTF-DVD"]
+	path = PwTF-DVD
+	url = https://github.com/rama0126/PwTF-DVD.git
+[submodule "MAYA"]
+	path = MAYA
+	url = https://github.com/rama0126/MAYA-Multi-Attack-Yielding-Augmentation-for-Unified-Face-Attack-Detection.git
