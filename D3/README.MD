@@ -1,4 +1,4 @@
-# Reproduction for D³
+# Reproduction for D³: Scaling Up Deepfake Detection by Learning from Discrepancy
 
 This repository is based on the official implementation of  
 **[D³: Scaling Up Deepfake Detection by Learning from Discrepancy (CVPR 2025)](https://arxiv.org/pdf/2404.04584)**.  
