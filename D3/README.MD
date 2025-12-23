@@ -199,6 +199,8 @@ echo "🧹 Cleaned up all other folders."
 
 Another part of the dataset (diffusion models) can be downloaded from the following [Google Drive link](https://drive.usercontent.google.com/download?id=1FXlGIRh_Ud3cScMgSVDbEWmPDmjcrm1t&export=download&authuser=0)
 
+# Note that these images are not leveraged mostly. (Only done in some papers)
+
 <table>
 <tr>
   <th rowspan="2">Split</th>
