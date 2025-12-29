@@ -4,8 +4,8 @@
 
 ## Detectors
 
-### **D3**
-- **Paper**: [D³: Scaling Up Deepfake Detection by Learning from Discrepancy](https://arxiv.org/pdf/2404.04584)
+### **D3** - D³: Scaling Up Deepfake Detection by Learning from Discrepancy
+- **Paper**: [Read on arXiv](https://arxiv.org/pdf/2404.04584)
 - **Conference**: CVPR 2025
 
 ### **MAYA**
