@@ -8,7 +8,7 @@ This repository is based on the official implementation of
 
 ## 📂 Dataset Download
 
-The dataset used in this project is a **composite dataset** provided by the D³ authors:  
+The dataset used in this project is a **composite dataset** provided by the D**³: Scaling Up Deepfake Detection by Learning from Discrepancy** authors:  
 **Make sure you have `wget`, `unzip`, and `7z` installed.**
 
 #### 📥 UFD Dataset Download Scripts
