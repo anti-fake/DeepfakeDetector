@@ -99,6 +99,8 @@ flatten_group() {
   done
 }
 
+flatten_group 0_real
+flatten_group 1_fake
 echo "✅ Flattened without overwriting."
 
 find . -mindepth 1 -maxdepth 1 -type d ! -name "0_real" ! -name "1_fake" ! -name "run.sh" -exec rm -rf {} +
