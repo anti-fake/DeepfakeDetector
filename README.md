@@ -9,8 +9,8 @@
 - **Conference**: CVPR 2025
 
 ### **MAYA**
-- **Conference**: ICCV Workshop 2025
 - **Paper**: [MAYA: Multi-Attack Yielding Augmentation for Unified Face Attack Detection](https://openaccess.thecvf.com/content/ICCV2025W/FAS2025/papers/Kim_MAYA_Multi-Attack_Yielding_Augmentation_for_Unified_Face_Attack_Detection_ICCVW_2025_paper.pdf)
+- **Conference**: ICCV Workshop 2025
 
 ### **PwTF-DVD**
 - **Conference**: ICCV 2025
