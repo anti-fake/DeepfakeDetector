@@ -13,8 +13,8 @@
 - **Conference**: ICCV Workshop 2025
 
 ### **PwTF-DVD**
-- **Conference**: ICCV 2025
 - **Paper**: [Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](https://arxiv.org/pdf/2507.02398)
+- **Conference**: ICCV 2025
 
 
 ## Table of Contents
