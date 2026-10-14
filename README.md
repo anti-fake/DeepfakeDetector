@@ -18,6 +18,20 @@
 - **Conference**: ICCV 2025
 
 
+### **Defocus-Deepfake-Detection**
+- **Paper**: [Seeing Through the Blur: Unlocking Defocus Maps for Deepfake Detection](https://doi.org/10.1145/3746252.3761260)
+- **Conference**: CIKM 2025
+- **Code**: [irissun9602/Defocus-Deepfake-Detection](https://github.com/irissun9602/Defocus-Deepfake-Detection)
+
+## Watermarking
+
+### **AEON**
+- **Paper**: [AEON: Adaptive Embedding Optimized Noise for Robust Watermarking in Diffusion Models](https://openaccess.thecvf.com/content/WACV2026/html/Muneer_AEON_Adaptive_Embedding_Optimized_Noise_for_Robust_Watermarking_in_Diffusion_WACV_2026_paper.html)
+- **Conference**: WACV 2026
+- **Code**: [shahidmuneer-skku/aeon](https://github.com/shahidmuneer-skku/aeon)
+
+Both projects are included as Git submodules linked to the original authors' repositories, following the same approach as MAYA. Please refer to each project's README for setup instructions and citation information.
+
 ## Table of Contents
 - [Highlights](#highlights)
 - [Repository Structure](#repository-structure)
