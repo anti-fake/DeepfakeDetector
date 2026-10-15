@@ -4,3 +4,9 @@
 [submodule "MAYA"]
 	path = MAYA
 	url = https://github.com/rama0126/MAYA-Multi-Attack-Yielding-Augmentation-for-Unified-Face-Attack-Detection.git
+[submodule "Defocus-Deepfake-Detection"]
+	path = Defocus-Deepfake-Detection
+	url = https://github.com/irissun9602/Defocus-Deepfake-Detection.git
+[submodule "aeon"]
+	path = aeon
+	url = https://github.com/shahidmuneer-skku/aeon.git
